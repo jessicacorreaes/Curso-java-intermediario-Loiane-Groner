@@ -1,4 +1,4 @@
-package Aula53;
+package aula53;
 
 public class Teste {
 
